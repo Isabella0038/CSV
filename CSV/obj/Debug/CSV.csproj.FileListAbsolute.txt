@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\CSV\bin\Debug\CSV.exe.config
+C:\Users\Asus\source\repos\CSV\bin\Debug\CSV.exe
+C:\Users\Asus\source\repos\CSV\bin\Debug\CSV.pdb
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.Form1.resources
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.Properties.Resources.resources
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.exe
+C:\Users\Asus\source\repos\CSV\obj\Debug\CSV.pdb
